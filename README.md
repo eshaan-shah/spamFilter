@@ -1,6 +1,6 @@
 # spamFilter
 
-Email Spam Filter:
+# Email Spam Filter:
 This is an email spam filter using machine learning techniques Naïve Bayesian Classification, Support Vector Machines and Decision Tree Learning. 
 
 Data set:
