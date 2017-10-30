@@ -2,8 +2,10 @@
 This is an email spam filter using machine learning techniques Naïve Bayesian Classification, Support Vector Machines and Decision Tree Learning. 
 
 Data set:
-The data set used is obtained from: http://www2.aueb.gr/users/ion/data/enron-spam/
+The data set used is obtained from http://www2.aueb.gr/users/ion/data/enron-spam/
+
 Split the data set into train and test set. Further, split each set it into ham/spam.
+
 The directories must be formed as:
 1. train/ham, train/spam
 2. test/ham, test/spam
