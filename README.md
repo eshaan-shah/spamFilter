@@ -14,4 +14,4 @@ Requirements:
 
 Code Usage:
 1. Place the python file and the train, test directories created as above, in a directory.
-2. Run the code as 'py SpamFilter.py <trainDirName> <testDirName>'
+2. Run the code as 'py SpamFilter.py \<trainDirName\> \<testDirName\>'
